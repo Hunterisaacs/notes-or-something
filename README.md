@@ -19,3 +19,6 @@ during the class i have learned about different infinities
 integer.Max_value
 double.max_value + 1;
 ```
+**Note**
+
+Use *JShell* to expirement with java
